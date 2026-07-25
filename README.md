@@ -33,13 +33,13 @@
 
 <!-- Title -->
 <p align="center">
-  <img src="docs/img/system_access_title.svg" width="100%" alt="System access section title" />
+  <img src="docs/img/system_access_title.svg?v=3" width="100%" alt="System access section title" />
 </p>
 
 <p align="center">
 
 <a href="https://github.com/Ozgurkalcik">
-  <img width="82%" src="docs/img/system/portal_main.svg" alt="Ozgur System portal" />
+  <img width="82%" src="docs/img/system/portal_main.svg?v=3" alt="Ozgur System portal" />
 </a>
 
 </p>
@@ -47,13 +47,13 @@
 <p align="center">
 
 <a href="https://github.com/Ozgurkalcik">
-  <img width="32%" src="docs/img/system/neural_lab.svg" alt="AI Lab" />
+  <img width="32%" src="docs/img/system/neural_lab.svg?v=3" alt="AI Lab" />
 </a>
 <a href="https://github.com/Ozgurkalcik">
-  <img width="32%" src="docs/img/system/molecule_lab.svg" alt="Cyber Lab" />
+  <img width="32%" src="docs/img/system/molecule_lab.svg?v=3" alt="Cyber Lab" />
 </a>
 <a href="https://github.com/Ozgurkalcik">
-  <img width="32%" src="docs/img/system/model_forge.svg" alt="Algo Forge" />
+  <img width="32%" src="docs/img/system/model_forge.svg?v=3" alt="Algo Forge" />
 </a>
 
 </p>
@@ -62,7 +62,7 @@
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/Ozgurkalcik/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Ozgurkalcik)
 
 <p align="center">
-  <img src="docs/img/ozgur_core.svg" width="100%" alt="System core panel" />
+  <img src="docs/img/ozgur_core.svg?v=3" width="100%" alt="System core panel" />
 </p>
 
 
@@ -114,7 +114,7 @@
 
 <div style="width:220px;">
   <a href="docs/PROJECTS.md">
-    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
+    <img src="docs/img/tech_projects_panel.svg?v=3" width="220" alt="Projects navigation panel">
   </a>
 </div>
 
@@ -128,7 +128,7 @@
 
 <div style="width:220px;">
     <a href="docs/AI_DOMAIN.md">
-        <img src="docs/img/ai_domains.svg" width="220" alt="AI domains navigation panel">
+        <img src="docs/img/ai_domains.svg?v=3" width="220" alt="AI domains navigation panel">
     </a>
 </div>
 
@@ -178,7 +178,7 @@ I’m open to collaborating on:
 <!-- MIDDLE: PANEL -->
 <td width="34%" align="center" valign="middle">
     <a href="docs/COLLAB.md">
-        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
+        <img src="docs/img/collaboration_panel.svg?v=3" width="200px" alt="Collaboration navigation panel" />
     </a>
 </td>
 
