@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated AI and Tech Visual">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9zeG05c2hwY2V1Z3B4czBxNXpsamhoNGw1ZG4ybXV2bTV0bm52ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="450" alt="Animated AI and Tech Visual">
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/Ozgurkalcik/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Ozgurkalcik)
@@ -47,13 +47,13 @@
 <p align="center">
 
 <a href="https://github.com/Ozgurkalcik">
-  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Neural Lab" />
+  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="AI Lab" />
 </a>
 <a href="https://github.com/Ozgurkalcik">
-  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Molecule Lab" />
+  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Cyber Lab" />
 </a>
 <a href="https://github.com/Ozgurkalcik">
-  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Model Forge" />
+  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Algo Forge" />
 </a>
 
 </p>

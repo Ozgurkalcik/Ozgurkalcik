@@ -15,9 +15,9 @@
       <animateTransform attributeName="transform" type="rotate" from="0 97 82" to="360 97 82" dur="9s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <text x="280" y="74" class="meta">ML FOUNDATIONS WORKSHOP</text>
-  <text x="280" y="126" class="title">MODEL FORGE</text>
-  <text x="280" y="161" class="desc">Learn core machine learning concepts.</text>
-  <g transform="translate(280 190)"><rect width="118" height="26" rx="13" fill="#1e1b4b" stroke="#f59e0b" stroke-opacity=".55"/><text x="59" y="18" text-anchor="middle" class="tag">CONCEPTS</text></g>
-  <g transform="translate(412 190)"><rect width="104" height="26" rx="13" fill="#1e1b4b" stroke="#22d3ee" stroke-opacity=".55"/><text x="52" y="18" text-anchor="middle" class="tag">MODELS</text></g>
+  <text x="280" y="74" class="meta">ALGORITHMS &amp; CODE MATRIX</text>
+  <text x="280" y="126" class="title">ALGO FORGE</text>
+  <text x="280" y="161" class="desc">Data structures, C++ &amp; Python system core.</text>
+  <g transform="translate(280 190)"><rect width="138" height="26" rx="13" fill="#1e1b4b" stroke="#f59e0b" stroke-opacity=".55"/><text x="69" y="18" text-anchor="middle" class="tag">ALGORITHMS</text></g>
+  <g transform="translate(430 190)"><rect width="144" height="26" rx="13" fill="#1e1b4b" stroke="#22d3ee" stroke-opacity=".55"/><text x="72" y="18" text-anchor="middle" class="tag">C++ &amp; PYTHON</text></g>
 </svg>

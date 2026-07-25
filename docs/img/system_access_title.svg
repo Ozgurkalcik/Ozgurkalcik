@@ -16,35 +16,35 @@
 
     <style>
       .title {
-        font: 700 26px monospace;
-        fill: #e2e8f0;
-        letter-spacing: 3px;
+        font: 800 28px 'Segoe UI', monospace;
+        fill: #f8fafc;
+        letter-spacing: 4px;
       }
       .sub {
-        font: 400 12px monospace;
-        fill: #64748b;
+        font: 500 12px 'Segoe UI', monospace;
+        fill: #94a3b8;
         letter-spacing: 2px;
       }
     </style>
   </defs>
 
   <!-- lines -->
-  <line x1="0" y1="60" x2="400" y2="60" stroke="#1e293b" stroke-width="2"/>
-  <line x1="600" y1="60" x2="1000" y2="60" stroke="#1e293b" stroke-width="2"/>
+  <line x1="0" y1="60" x2="380" y2="60" stroke="#1e293b" stroke-width="2"/>
+  <line x1="620" y1="60" x2="1000" y2="60" stroke="#1e293b" stroke-width="2"/>
 
   <!-- animated energy -->
   <line x1="0" y1="60" x2="1000" y2="60"
         stroke="url(#grad)" stroke-width="2"
-        stroke-dasharray="120 1400">
+        stroke-dasharray="140 1360">
     <animate attributeName="stroke-dashoffset"
-             values="1520;0"
+             values="1500;0"
              dur="3s"
              repeatCount="indefinite"/>
   </line>
 
   <!-- center node -->
   <g transform="translate(500,60)" filter="url(#glow)">
-    <circle r="14" fill="none" stroke="#22d3ee" stroke-width="2"/>
+    <circle r="16" fill="none" stroke="#22d3ee" stroke-width="2"/>
     <circle r="6" fill="#22d3ee"/>
     <animateTransform attributeName="transform"
                       type="rotate"
@@ -56,11 +56,11 @@
 
   <!-- text -->
   <text x="500" y="40" text-anchor="middle" class="title">
-    SYSTEM ACCESS
+    OZGUR SYSTEM ACCESS
   </text>
 
   <text x="500" y="95" text-anchor="middle" class="sub">
-    entry points • external systems • interfaces
+    ai lab • cyber security • algo forge • repositories
   </text>
 
 </svg>
