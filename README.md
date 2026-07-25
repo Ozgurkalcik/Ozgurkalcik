@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ozgur%20Kalcik&fontSize=70&animation=twinkling" alt="Ozgur Kalcik profile header" />
+  <img src="./docs/img/header_banner.svg" width="100%" alt="Özgür Kalçık profile header" />
 </p>
 
 <!-- Title -->
