@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:0b0f19,70:1e1b4b,100:38bdf8&height=220&section=header&text=%C3%96zg%C3%BCr%20Kal%C3%A7%C4%B1k&fontSize=52&fontColor=ffffff&animation=twinkling&desc=2nd%20Year%20Computer%20Engineering%20Student%20%7C%20AI%20%26amp%3B%20Cyber%20Security&descSize=16&descAlign=50&descAlignX=50" width="100%" alt="Özgür Kalçık profile header" />
+  <img src="docs/img/header_banner.svg?v=4" width="100%" alt="Özgür Kalçık profile header" />
 </p>
 
 <!-- Title -->
