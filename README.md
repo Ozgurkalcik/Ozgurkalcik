@@ -33,7 +33,7 @@
 
 <!-- Title -->
 <p align="center">
-  <img src="docs/img/system_access_title.svg?v=3" width="100%" alt="System access section title" />
+  <img src="docs/img/system_access_title.svg?v=5" width="100%" alt="System access section title" />
 </p>
 
 <p align="center">
