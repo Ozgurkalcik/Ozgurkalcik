@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/img/header_banner.svg" width="100%" alt="Özgür Kalçık profile header" />
+  <img src="https://raw.githubusercontent.com/Ozgurkalcik/Ozgurkalcik/main/docs/img/header_banner.svg?v=2" width="100%" alt="Özgür Kalçık profile header" />
 </p>
 
 <!-- Title -->
